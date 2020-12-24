@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/add.png</file>
+        <file>images/load.png</file>
+        <file>images/twitch.png</file>
+        <file>bet.qml</file>
+        <file>create.qml</file>
+        <file>images/previous.png</file>
+        <file>images/edit.png</file>
+        <file>result.qml</file>
+    </qresource>
+</RCC>
